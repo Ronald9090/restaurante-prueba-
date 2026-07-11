@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+  --font-serif: "Playfair Display", serif;
+  
+  --color-brand-red: #C3151C; /* Traditional crimson red */
+  --color-brand-red-light: #FCE8E9;
+  --color-brand-red-dark: #8F0A0E;
+}
+
+/* Custom scrollbars and sleek styles */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #C3151C;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8F0A0E;
+}

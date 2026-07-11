@@ -1,0 +1,8 @@
+{
+  "name": "El Chuquisaqueño - Restaurante Tradicional",
+  "description": "Aplicación web moderna para El Chuquisaqueño en Cochabamba, Bolivia, que ofrece comida tradicional chuquisaqueña, menú digital, pedidos por WhatsApp, reserva de mesas y panel de administración interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
